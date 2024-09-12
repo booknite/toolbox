@@ -11,3 +11,19 @@ Load with
 
 '''bash
 $ dconf load /org/gnome/terminal/legacy/profiles:/ < /path/to/gnome-terminal-profiles.dconf
+
+###Change Neofetch ASCII
+
+Navigate to the neofetch config files
+
+'''bash
+~/.config/neofetch/config.conf
+
+Edit the file
+'''
+vim ~/.config/neofetch/config.conf
+
+Edit the image source section
+
+'''python
+image_source="/path/to/neofetch-ascii.txt"
