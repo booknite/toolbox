@@ -10,7 +10,7 @@ From the home file you can move it anywhere or use it on another computer.
 Load with 
 
 '''bash
-$ dconf load /org/gnome/terminal/legacy/profiles:/ < /path/to/gnome-terminal-profiles.dconf
+dconf load /org/gnome/terminal/legacy/profiles:/ < /path/to/gnome-terminal-profiles.dconf
 
 ###Change Neofetch ASCII
 
