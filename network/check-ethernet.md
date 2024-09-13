@@ -1,4 +1,4 @@
-# Checking for Ethernet Network Congestioni
+# Checking for Ethernet Network Congestion
 
 This guide walks you through the process of identifying and diagnosing potential network congestion issues on your Ethernet connection using bmon, nethogs, ping, and mtr.
 
