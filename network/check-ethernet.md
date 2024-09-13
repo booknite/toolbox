@@ -74,6 +74,7 @@ bmon
 ![bmon usage](bmon.gif)
 
 RX: Received data
+
 TX: Transmitted data
 
 ## 3. Identify Bandwidth-Heavy Processes (nethogs)
