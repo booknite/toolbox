@@ -105,7 +105,7 @@ Here, we're pinging Google's DNS server 100 times. Packet loss of 1~2% could ind
 
 ![ping test](ping.gif)
 
-Here, all 100 packets were received. Nice. 
+All 100 packets were received. Nice. 
 
 Typical Ping Times:
 
